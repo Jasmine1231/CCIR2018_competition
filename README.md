@@ -1,2 +1,2 @@
 # CCIR2018_competition
-code for the Zhihu Recommendation Competition
+website for this competition: https://www.biendata.xyz/competition/CCIR2018/
